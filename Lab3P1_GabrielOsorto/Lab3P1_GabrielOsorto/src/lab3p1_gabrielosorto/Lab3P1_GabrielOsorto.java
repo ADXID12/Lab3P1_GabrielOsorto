@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jahir Corrales
+ * @author Gabriel Osorto
  */
 public class Lab3P1_GabrielOsorto {
     
